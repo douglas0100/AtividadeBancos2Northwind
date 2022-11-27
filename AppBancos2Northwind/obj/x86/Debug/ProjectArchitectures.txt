@@ -1,0 +1,1 @@
+C:\Users\dougl\source\repos\AppBancos2Northwind\AppBancos2Northwind\AppBancos2Northwind.csproj;x86
